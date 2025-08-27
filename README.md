@@ -1,4 +1,4 @@
-# Retail-Sales-Profitability-Analysis
+# Sales Forecasting Project
 - Built a retail sales analytics pipeline using Python (pandas, matplotlib, seaborn) to identify high-profit product categories, optimize shipping methods, and forecast future demand. - Generated insights on operational efficiency, improving decision-making in supply chain and inventory management.
 - Conducted exploratory data analysis (EDA) to understand sales distribution, segment performance, and seasonal patterns.
 - Applied data visualization techniques to clearly illustrate sales trends, spikes, and anomalies before building forecasts.
