@@ -15,7 +15,7 @@
 - **Python** – Data processing & analysis:
 - **Pandas** – Data manipulation
 - **Matplotlib**, **Seaborn** – Data visualization
-- **Prophet** – Time-series forecasting
+- **Meta's prophet** – Time-series forecasting
 
 ## 📊 Key Insights
 
