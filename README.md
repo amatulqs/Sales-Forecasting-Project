@@ -9,20 +9,16 @@
 
 - Identify **high-profit product categories and sub-categories**
 - Analyze and **optimize shipping methods** across regions
-- Build a **sales forecasting model** with Prophet
-- Use predictive analytics for **inventory, staffing, and budgeting**
-
+  
 ## 🛠️ Tools Used
 
 - **Python** – Data processing & analysis:
 - **Pandas** – Data manipulation
 - **Matplotlib**, **Seaborn** – Data visualization
-- **Meta's prophet** – Time-series forecasting
 
 ## 📊 Key Insights
 
 - 📦 **Technology** is the most profitable category; **Office Supplies** underperform.
 - 🚚 **Standard Class** shipping yields the highest profit across all regions.
-- 📈 Meta (prophet) forecasts a steady increase in sales over the next quarter.
 - 📦 Predictive planning helps avoid stockouts and overstocking.
 
